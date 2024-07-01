@@ -1,0 +1,112 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+}
+@media screen and (max-width: 900px) {
+  .nav {
+    display: none;
+  }
+}
+.one {
+  display: flex;
+  margin-top: -600px;
+  gap: 20px;
+  color: white;
+}
+.spacex {
+  font-size: 30px;
+}
+.spacex {
+  margin-left: 40px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+.nav {
+  color: white;
+  text-decoration: none;
+}
+.nav:hover {
+  text-decoration: underline;
+}
+.shop {
+  margin-left: 70px;
+}
+.inone {
+  margin-top: 300px;
+  margin-left: 50px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.uplun {
+  font-size: 20px;
+}
+.stmis {
+  font-size: 35px;
+  font-weight: 900;
+}
+.wth {
+  background-color: initial;
+  font-size: 15px;
+  color: white;
+  border: white 1px solid;
+  padding: 20px 80px 20px 80px;
+}
+.wth:hover {
+  color: black;
+  border: black 1px solid;
+  background-color: white;
+  font-weight: 700;
+}
+.rimg {
+  margin-top: 130px;
+}
+.res {
+  border: none;
+  margin-top: -10px;
+}
+@media screen and (max-width: 900px) {
+  .res {
+    margin-left: -500px;
+    margin-top: -87px;
+  }
+}
+.lastnav {
+  margin-top: 119px;
+  color: white;
+  background-color: black;
+  height: 120px;
+}
+.lasti {
+  margin-top: 100px;
+  padding: 50px;
+  text-align: center;
+  font-size: 10px;
+}
+@media screen and (max-width: 900px) {
+    
+}
+.iontwo {
+  margin-top: -240px;
+  margin-left: 50px;
+}
+.stmis2 {
+  font-size: 35px;
+  font-weight: 900;
+}
+.wth2 {
+  background-color: initial;
+  font-size: 15px;
+  color: white;
+  border: white 1px solid;
+  padding: 20px 80px 20px 80px;
+}
+.wth2:hover {
+  color: black;
+  border: black 1px solid;
+  background-color: white;
+  font-weight: 700;
+}
